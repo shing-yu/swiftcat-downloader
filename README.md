@@ -22,7 +22,7 @@
 ## 特定于平台的说明
 
 #### macOS
-macOS推荐使用上方的Flutter版本，此Python版本可能存在兼容性问题。
+macOS推荐使用上方的Flutter版本，此Python版本可能存在兼容性问题。  
 您可能需要执行以下操作来在新版本的 macOS 上运行应用：
 1. 打开“终端”应用
 2. 输入并回车执行 `sudo spctl --global-disable`，  

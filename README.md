@@ -22,6 +22,7 @@
 ## 特定于平台的说明
 
 #### macOS
+macOS推荐使用上方的Flutter版本，此Python版本可能存在兼容性问题。
 您可能需要执行以下操作来在新版本的 macOS 上运行应用：
 1. 打开“终端”应用
 2. 输入并回车执行 `sudo spctl --global-disable`，  
@@ -29,7 +30,8 @@
 3. 打开 系统设置 > 隐私与安全性 > 常规，  
    在“允许以下来源的应用程序”下选择“任何来源”，输入密码并同意。
 4. 在“终端”应用中输入并回车执行 `sudo xattr -r -d com.apple.quarantine /Applications/灵猫小说下载器py.app`
-5. 运行应用。
+5. 运行应用。  
+支持的架构：arm64 (Apple Silicon)、x86_64 (Intel)
 
 ## 许可
 

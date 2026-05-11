@@ -4,7 +4,7 @@
 
 [Flutter 版本](https://github.com/shing-yu/swiftcat-downloader-flutter)
 
-如果您没有保存EPUB格式的需求，建议您使用上方的Flutter版本，它支持更多平台且更现代化。
+python 版本已存档，建议使用上方 Flutter 版本
 
 
 ## 特性
